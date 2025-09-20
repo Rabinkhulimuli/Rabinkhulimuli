@@ -18,7 +18,7 @@
 
 | Name           | Description                            | Tech Stack                           | Link                                     |
 |----------------|----------------------------------------|--------------------------------------|------------------------------------------|
-| **PRIVE**     | E-commerce platform with worldwide shipping | MERN, Tailwind, React Query           | [Live](https://ecommerce-web-app-gamma.vercel.app/products/675b359a-f37a-4fd1-ae58-58d23eceedcc) |
+| **PRIVE**     | E-commerce platform with worldwide shipping | MERN, Tailwind, React Query           | [Live](https://ecommerce-web-app-gamma.vercel.app) |
 | **Xprive**     | E-commerce platform with worldwide shipping | MERN, Tailwind, React Query           | [GitHub](https://github.com/Rabinkhulimuli) |
 | **VanLife**    | Responsive frontend clone of VanLife   | React, Tailwind                       | [GitHub](https://github.com/Rabinkhulimuli) |
 | **Airbnb Clone** | Full stack clone with authentication & listings | Next.js, MongoDB, Prisma, Auth        | [GitHub](https://github.com/Rabinkhulimuli) |
